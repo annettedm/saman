@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saman", "Saman.csproj", "{DC7802D1-EAD3-4BBE-9828-F91B9980E899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saman.Tests", "..\Saman.Tests\Saman.Tests.csproj", "{092366E4-5F71-476A-9820-1841171CFB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7802D1-EAD3-4BBE-9828-F91B9980E899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7802D1-EAD3-4BBE-9828-F91B9980E899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7802D1-EAD3-4BBE-9828-F91B9980E899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7802D1-EAD3-4BBE-9828-F91B9980E899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092366E4-5F71-476A-9820-1841171CFB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092366E4-5F71-476A-9820-1841171CFB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092366E4-5F71-476A-9820-1841171CFB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092366E4-5F71-476A-9820-1841171CFB98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EFEEDDF-EB51-40C7-904A-FCD102DF0822}
+	EndGlobalSection
+EndGlobal
